@@ -18,6 +18,6 @@
     "get-pixels": "^3.3.0",
     "hsl-to-rgb": "^1.0.0",
     "react-blockies": "^1.2.2",
-    "sharp": "^0.20.0"
+    "sharp": "^0.23.4"
   }
 }
